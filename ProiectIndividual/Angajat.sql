@@ -1,0 +1,1 @@
+SELECT * FROM proiect.ang_info;
